@@ -12,8 +12,8 @@ Let's step in directly to the world of Wavecon Telecom with me, where innovation
 
 📎 **Links**
 
-📊[Live Dashboard]()
-💼 [Linkedin Post]
+📊[Live Dashboard](https://app.powerbi.com/groups/me/reports/336c839e-a307-46a4-a135-d91bd871fffb/ReportSection16b73cde20cf3ed17b51?experience=power-bi)
+💼[Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7353619875921121282/)
 
 ### 📂 Dataset
 
