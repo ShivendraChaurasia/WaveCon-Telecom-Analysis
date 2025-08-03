@@ -1,8 +1,17 @@
 ### **WaveCon Telecom Analysis**
 ---
-WaveCon Telecom is a remarkable telecom service provider that I explored during the codebasics 𝗩𝗶𝗿𝘁𝘂𝗮𝗹 𝗜𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽. They have launched their 5G network, and we're analyzing revenue trends! 📈💹
+WaveCon Telecom is a remarkable telecom service provider that I explored during the codebasics 𝗩𝗶𝗿𝘁𝘂𝗮𝗹 𝗜𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽. They have launched their 5G network, and we're analyzing revenue trends! 📈
 
-Step into the world of Wavecon Telecom with me, where innovation meets connectivity, and possibilities are limitless.💫
+Let's step in directly to the world of Wavecon Telecom with me, where innovation meets connectivity, and possibilities are limitless.💫
+
+###  **Tools & Technologies Used:**
+--
+* **Power BI**
+* **Canva**
+* **Excel**
+
+📎 **Links**
+--
 
 🏙️ 𝗞𝗲𝘆 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀:
 
