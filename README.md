@@ -11,13 +11,13 @@ Let's step in directly to the world of Wavecon Telecom with me, where innovation
 * **Excel**
 
 📎 **Links**
---
+
 📊[Live Dashboard]()
 💼 [Linkedin Post]
 
 ### 📂 Dataset
---
-  The dataset provided by **Codebasics** is from Insurance companies, in which we have to track the 5 major key metrics.
+
+The dataset provided by **Codebasics** is from Insurance companies, in which we have to track the 5 major key metrics.
 
 🏙️ 𝗞𝗲𝘆 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀:
 
@@ -30,8 +30,6 @@ Let's step in directly to the world of Wavecon Telecom with me, where innovation
 💡 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀: WaveCon's 5G launch signifies their commitment to innovation, revolutionizing data consumption and user experience.
 
 ###  📋 Data Summary
-
---
 
 #### 1. **Data Model**
 
